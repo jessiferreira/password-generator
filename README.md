@@ -2,12 +2,13 @@
   <img src="https://github.com/jessiferreira/meu-template/assets/121064773/fdafa83a-d5c6-4da4-9641-7c984b103501" width="1200px">
 </p>
 
-[![Generic badge](https://img.shields.io/badge/TIPO-Desafio-C2078F.svg)](https://shields.io/)&nbsp;
 [![Generic badge](https://img.shields.io/badge/STATUS-Concluído-C2078F.svg)](https://shields.io/)&nbsp;
  
-<h1 align="center">Título do Projeto</h1>
+<h1 align="center">Gerador de Senhas</h1>
 
- Se o seu objetivo for apenas garantir que a indentação está correta, sim, está tudo certo. Se houver algum problema específico que você está enfrentando, por favor, descreva o problema para que eu possa ajudá-lo melhor.
+O Gerador de Senhas é uma aplicação web desenvolvida para facilitar a criação de senhas seguras e robustas. Com a crescente preocupação com a segurança digital, ter senhas fortes é essencial para proteger informações pessoais e profissionais. Este projeto oferece uma solução prática e confiável para gerar senhas de 8 a 20 caracteres, garantindo uma combinação de letras maiúsculas, minúsculas, números e caracteres especiais.
+
+Além disso, uma funcionalidade importante é a capacidade de copiar a senha gerada com apenas um clique, agilizando o processo de uso e armazenamento das senhas. Com uma interface simples e intuitiva, o Gerador de Senhas torna-se uma ferramenta indispensável para qualquer pessoa que deseje fortalecer sua segurança online de forma fácil e eficiente.
 
 ## 📑 Índice
 * [Prévia](#-prévia)
@@ -19,22 +20,19 @@
 
 ## 🎨 Prévia
 
-
-<p align="center">
-  <img src="https://github.com/jessiferreira/password-generator/assets/121064773/596781b4-e526-4282-abba-f38e3ed556d6" alt="Prévia do projeto" width="900">
-
-  
-</p>
+![Gerador de Senhas](https://github.com/jessiferreira/password-generator/assets/121064773/6e8ae07d-0ca6-4c45-8b81-e360cc8c0893)
 
 ## 💡 Funcionalidades
-- Funcionalidade 1
-- Funcionalidade 2
-- Funcionalidade 3
+- Geração de senhas de 8 a 20 caracteres
+- Função de copiar ao clicar na senha gerada
 
 ## 🎮 Instruções
-1. Passo 1
-2. Passo 2
-3. Passo 3
+1. Acesse o link abaixo
+2. Clique no botão para gerar uma senha
+3. Clique na senha gerada para copiá-la para a área de transferência
+
+## 🔗 Acesse
+[Gerador de Senha](https://password-generator-nine-teal.vercel.app/)
 
 ## 🛠 Tecnologias
 <p align="left">
@@ -43,11 +41,8 @@
   </a>
 </p>
 
-## 🔗 Acesse
-[Gerador de Senha](https://password-generator-nine-teal.vercel.app/)
-
 ---
 
 <p align="center">
-  Feito com ❤️ por <strong>Jéssica Ferreira</strong>.
+  Feito com ❤️ por <strong>Jéssica Ferreira</strong>!
 </p>

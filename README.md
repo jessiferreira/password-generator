@@ -12,14 +12,18 @@
 ## 📑 Índice
 * [Prévia](#-prévia)
 * [Funcionalidades](#-funcionalidades)
-* [Como Utilizar](#-instrucoes)
+* [Instruções](#-instrucoes)
 * [Tecnologias](#-tecnologias)
 * [Acesse](#-acesse)
-* [Licença](#-licença)
+* [Licença](#-licenca)
 
 ## 🎨 Prévia
+
+
 <p align="center">
-  <img src="LINK_DE_VIDEO_OU_IMAGEM_AQUI" alt="Prévia do projeto" width="900">
+  <img src="https://github.com/jessiferreira/password-generator/assets/121064773/596781b4-e526-4282-abba-f38e3ed556d6" alt="Prévia do projeto" width="900">
+
+  
 </p>
 
 ## 💡 Funcionalidades
@@ -40,12 +44,7 @@
 </p>
 
 ## 🔗 Acesse
-[Link do projeto]
-
-## 📝 Licença
-Este projeto está sob a [MIT License](https://github.com/jessiferreira/NOME-DO-REPOSITORIO-AQUI/blob/master/LICENSE), que permite o uso, 
-modificação e distribuição para fins comerciais e não comerciais, desde que inclua o aviso de direitos autorais e a licença original 
-em todas as cópias ou partes do software.
+[Gerador de Senha](https://password-generator-nine-teal.vercel.app/)
 
 ---
 

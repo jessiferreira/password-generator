@@ -14,9 +14,9 @@ Além disso, uma funcionalidade importante é a capacidade de copiar a senha ger
 * [Prévia](#-prévia)
 * [Funcionalidades](#-funcionalidades)
 * [Instruções](#-instrucoes)
-* [Tecnologias](#-tecnologias)
 * [Acesse](#-acesse)
-* [Licença](#-licenca)
+* [Tecnologias](#-tecnologias)
+
 
 ## 🎨 Prévia
 

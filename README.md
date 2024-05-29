@@ -28,7 +28,7 @@ Além disso, uma funcionalidade importante é a capacidade de copiar a senha ger
 
 ## 🎮 Instruções
 1. Acesse o link abaixo
-2. Clique no botão "GERAR SENHA" para gerar sua senha
+2. Clique no botão __"GERAR SENHA"__ para gerar sua senha
 3. Clique na senha gerada para copiá-la para a área de transferência
 
 ## 🔗 Acesse

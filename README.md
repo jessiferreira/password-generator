@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jessiferreira/meu-template/assets/121064773/fdafa83a-d5c6-4da4-9641-7c984b103501" width="1200px">
+  <img src="https://github.com/jessiferreira/password-generator/assets/121064773/a92fecb2-f198-4cf6-b4f6-86486762fa5e" width="1200px">
 </p>
 
 [![Generic badge](https://img.shields.io/badge/STATUS-Concluído-C2078F.svg)](https://shields.io/)&nbsp;

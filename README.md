@@ -4,11 +4,11 @@
 
 [![Generic badge](https://img.shields.io/badge/STATUS-Concluído-C2078F.svg)](https://shields.io/)&nbsp;
  
-<h1 align="center">Gerador de Senhas</h1>
+<h1 align="center">Gerador de Senha</h1>
 
-O Gerador de Senhas é uma aplicação web desenvolvida para facilitar a criação de senhas seguras e robustas. Com a crescente preocupação com a segurança digital, ter senhas fortes é essencial para proteger informações pessoais e profissionais. Este projeto oferece uma solução prática e confiável para gerar senhas de 8 a 20 caracteres, garantindo uma combinação de letras maiúsculas, minúsculas, números e caracteres especiais.
+O Gerador de Senha é uma aplicação web desenvolvida para facilitar a criação de senhas seguras e robustas. Com a crescente preocupação com a segurança digital, ter senhas fortes é essencial para proteger informações pessoais e profissionais. Este projeto oferece uma solução prática e confiável para gerar senhas de 8 a 20 caracteres, garantindo uma combinação de letras maiúsculas, minúsculas, números e caracteres especiais.
 
-Além disso, uma funcionalidade importante é a capacidade de copiar a senha gerada com apenas um clique, agilizando o processo de uso e armazenamento das senhas. Com uma interface simples e intuitiva, o Gerador de Senhas torna-se uma ferramenta indispensável para qualquer pessoa que deseje fortalecer sua segurança online de forma fácil e eficiente.
+Além disso, uma funcionalidade importante é a capacidade de copiar a senha gerada com apenas um clique, agilizando o processo de uso e armazenamento das senhas. Com uma interface simples e intuitiva, o Gerador de Senha torna-se uma ferramenta indispensável para qualquer pessoa que deseje fortalecer sua segurança online de forma fácil e eficiente.
 
 ## 📑 Índice
 * [Prévia](#-prévia)
